@@ -20,7 +20,7 @@ module.exports = {
   Lavalink: {
     id: "Main",
     host: "node-1.adkynet.net",
-    port: 1111,
+    port: 1245,
     pass: "youshallnotpass",
 },
 
